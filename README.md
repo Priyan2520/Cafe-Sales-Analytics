@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☕ Cafe Sales Analytics — End-to-End BI & Analytics Project
 
 <div align="center">
@@ -318,3 +319,6 @@ Data Analyst | BI Developer
 <div align="center">
 <sub>Built with Python, SQL, DAX, and Power BI · Dataset: Kaggle Dirty Cafe Sales</sub>
 </div>
+=======
+# Cafe-Sales-Analytics
+>>>>>>> 895a8ff76d5d5b5654521dc8f43496844ae7e038
