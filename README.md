@@ -310,10 +310,9 @@ python scripts/business_kpi_analysis.py
 
 ## 👤 Author
 
-**[Your Name]**  
+**PRIYA PRADEEP NAKATE**  
 Data Analyst | BI Developer  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/YOUR_USERNAME)
-
+[LinkedIn][(https://www.linkedin.com/in/priyanakate25/)] · [GitHub](https://github.com/Priyan2520)
 ---
 
 <div align="center">
