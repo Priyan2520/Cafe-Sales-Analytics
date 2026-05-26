@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ☕ Cafe Sales Analytics — End-to-End BI & Analytics Project
 
 <div align="center">
